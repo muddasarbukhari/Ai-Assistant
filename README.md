@@ -9,7 +9,11 @@ I will keep working on it this project so in the future it this will do more adv
 If you have any feedback, I will love to hear it and also feel free to send pull requests. Thank you.
 
 👋 Hi, I’m @muddasarbukhari
+
 👀 I’m interested in Python, ML, Deep Learning.
+
 🌱 I’m currently learning ML and Deep Learning
+
 💞️ I’m looking to collaborate on any project related to ML and Deep Learning
+
 📫 you can contact me on muddasarbukhari1@gmail.com
