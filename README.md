@@ -1,6 +1,6 @@
 # Ai-Assistant
 
-I created a simple Ai-assistant for my desktop it is a personal project that I created to automate a few things while I am working. 
+I created a simple Ai-assistant for my desktop in Python. It is a personal project that I created to automate a few things while I am working. 
 
 It's not the best Ai-assistant but it does small things like playing music etc. 
 
