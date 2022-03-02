@@ -16,4 +16,4 @@ If you have any feedback, I will love to hear it and also feel free to send pull
 
 💞️ I’m looking to collaborate on any project related to ML and Deep Learning
 
-📫 you can contact me on muddasarbukhari1@gmail.com / syed_muddasar_
+📫 you can contact me on muddasarbukhari1@gmail.com / https://twitter.com/syed_muddasar_
