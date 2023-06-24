@@ -4,8 +4,6 @@ I created a simple Ai-assistant for my desktop in Python. It is a personal proje
 
 It's not the best Ai-assistant but it does small things like playing music etc. 
 
-I will keep working on it this project so in the future it this will do more advance and complex things. 
-
 If you have any feedback, I will love to hear it and also feel free to send pull requests. Thank you.
 
 👋 Hi, I’m @muddasarbukhari
